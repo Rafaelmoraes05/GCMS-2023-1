@@ -29,5 +29,42 @@ public class HelloWorld
 		System.out.println("Karine Santos (Janeissa) -> Alteração Pratica 4");
 		System.out.println("Karine Santos (Janeissa) -> Alteração Pratica 4 (branch com meu nome)");
 		System.out.println("Karine Santos (Janeissa) -> Pull Request Karine Santos");
+		
+		System.out.println("Lucas André -> Hello World!");
+		System.out.println("Lucas André -> Pratica 4 - Pull Request");
+
+		System.out.println("Iago Pedro: Hello World!!!");
+		System.out.println("Iago Pedro: prática de branching");
+		System.out.println("Iago Pedro: pull request!!!!!!");
+		
+		System.out.println("Jeozadaque Macedo: Hello World!");
+		System.out.println("Jeozadaque Macedo: Pull Request");
+
+		System.out.println("Filipe Bessa: Estou fazendo um commit!");
+		System.out.println("Filipe Bessa: Dummy!");
+		System.out.println("Filipe Bessa: Estou fazendo mais um commit :)!");
+		System.out.println("Filipe Bessa: Estou fazendo um pull request!");
+		
+		System.out.println("Ramide: Mudanca para PR reverso!");
+		
+		System.out.println("Marilia Santiago: Prática 03 - Fazendo commits locais na cópia do repositório. ");
+		System.out.println("Nova branch adicionada: Marilia Santiago");
+		System.out.println("Marilia Santiago: Fazendo pull request.");
+		System.out.println("Marilia Santiago: Fazendo alterações no meu repositório fork");
+		System.out.println("Marilia Santiago: Nova pull request");
+		
+		System.out.println("Anderson Guilherme: Primeiro commit");
+		System.out.println("Nova branch Anderson Guilherme, Show!!");
+		System.out.println("Anderson Guilherme realizando um Pull Request");
+		
+		System.out.println("Samuel Paes: trabalhando na prática 03");
+
+		System.out.println("Samuel Paes: Trabalhando com o repositório da turma (diretamente)");
+		System.out.println("Samuel Paes: prática 04");
+		
+		System.out.println("Pull request Samuel Paes");
+		System.out.println("Pull request Samuel Paes correção");
+
+		System.out.println("Samuel Paes: Mudança para PR reverso!");
 	}
 }
