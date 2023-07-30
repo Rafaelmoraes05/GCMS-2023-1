@@ -23,3 +23,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lucas André (@MoonEye696)
 * Akin Dagba (@AkinDagba)
 * Marilia Santiago (@mariliaalines)
+* Karine Santos (@jkss13, colaboradora)
